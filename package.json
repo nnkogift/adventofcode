@@ -9,6 +9,7 @@
     "typescript": "^4.9.3"
   },
   "scripts": {
-    "run:day1": "ts-node src/day1/index.ts"
+    "run:day1": "ts-node src/day1/index.ts",
+    "run:day2": "ts-node src/day2/index.ts"
   }
 }
